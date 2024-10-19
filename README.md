@@ -18,5 +18,5 @@ Install the KMS repo with npm
 Run the code
 
 ```bash
-  npx ts-node index.ts
+  npx ts-node src/index.ts
 ```
