@@ -1,7 +1,7 @@
 import { KMS } from "aws-sdk";
 import * as crypto from "crypto";
 
-import { awsConfig, paramsSecurity, keyId } from "../config/configs";
+import { awsConfig, keyId, paramsSecurity } from "../config/config";
 import { formatPublicKey } from "../helper/format";
 
 
